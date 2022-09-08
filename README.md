@@ -1,17 +1,10 @@
 <table>
 <tbody>
 <tr>
-<<<<<<< HEAD
-<td>![](src/A7Tud5fVI7M.jpg)</td>
-<td>
-<p>***Денис Кель***</p>
-<p>***г. Хабаровск***</p>
-=======
 <td><img src="src/A7Tud5fVI7M.jpg"></p></td>
 <td>
 <p><b><i>Денис Кель</b></i></p>
 <p><b><i>г. Хабаровск</b></i></p>
->>>>>>> parent of 872c0a7 (Update README.md)
 </td>
 </tr>
 </tbody>
