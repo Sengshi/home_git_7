@@ -1,10 +1,10 @@
 <table>
 <tbody>
 <tr>
-<td><img src="src/A7Tud5fVI7M.jpg"></p></td>
+<td><img src="src/A7Tud5fVI7M.jpg"></td>
 <td>
-<p><b><i>Денис Кель</b></i></p>
-<p><b><i>г. Хабаровск</b></i></p>
+<p><b><i>Денис Кель</i></b></p>
+<p><b><i>г. Хабаровск</i></b></p>
 </td>
 </tr>
 </tbody>
