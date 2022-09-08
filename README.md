@@ -1,10 +1,10 @@
 <table>
 <tbody>
 <tr>
-<td><img src="src/A7Tud5fVI7M.jpg"></td>
+<td>![](src/A7Tud5fVI7M.jpg)</td>
 <td>
-<p><b><i>Денис Кель</i></b></p>
-<p><b><i>г. Хабаровск</i></b></p>
+<p>***Денис Кель***</p>
+<p>***г. Хабаровск***</p>
 </td>
 </tr>
 </tbody>
@@ -12,7 +12,7 @@
 
 ### О себе:
 
-Учусь в ["Нетологии"](https://netology.ru/) на курсе ["Python-разработчик с нуля"](https://netology.ru/programs/python).
+Учусь в [Нетологии](https://netology.ru/) на курсе ["Python-разработчик с нуля"](https://netology.ru/programs/python).
 
 **Пример работ:**
 
