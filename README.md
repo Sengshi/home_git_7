@@ -1,11 +1,13 @@
 <table>
-  <tr>
-    <td><p><img src="src/A7Tud5fVI7M.jpg"></p></td>
-    <td>
-    <p><b><i>Денис Кель</b></i></p>
-    <p><b><i>г. Хабаровск</b></i></p>
-	</td>
-  </tr>
+<tbody>
+<tr>
+<td><img src="src/A7Tud5fVI7M.jpg"></p></td>
+<td>
+<p><b><i>Денис Кель</b></i></p>
+<p><b><i>г. Хабаровск</b></i></p>
+</td>
+</tr>
+</tbody>
 </table>
 
 ### О себе:
